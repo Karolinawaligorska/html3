@@ -1,0 +1,30 @@
+:root {
+  --red: #fa6262;
+  --blue: #cae9f2;
+  --bg-gray: #fbfbfb;
+  --yellow: #fffacc;
+  --green: #e2efc7;
+  --pink: #efc7c7;
+  --font-color: #000;
+  --blue-solid: #a1dbed;
+  --green-solid: #d4eda1;
+}
+
+
+header {
+display:flex;
+justify-content: space-between;
+}
+
+main {
+
+display:flex;
+background-color: pink;
+}
+
+.main-l {
+display:flex;
+height:800px;
+background-color: red;
+width:50%;
+}
